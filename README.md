@@ -1,12 +1,13 @@
-# Laser-Security-System-Blynk-IoT
+# Laser-Security-System-Blynk-IoT🚀
 It's the basic laser security which detects the intruder ...
+
 # Laser Security System with ESP32 and Blynk IoT
 
 A laser-based intrusion detection system developed using ESP32 and Blynk IoT. The system continuously monitors a laser beam using an LDR sensor. If the beam is interrupted, an alarm is activated and a notification is sent through Blynk IoT.
 
 ---
 
-## Features
+## Features✨
 
 - Laser Beam Detection
 - Intruder Detection
@@ -20,7 +21,7 @@ A laser-based intrusion detection system developed using ESP32 and Blynk IoT. Th
 
 ---
 
-## Hardware Required
+## Hardware Required🛠️
 
 - ESP32 Dev Board
 - Laser Module
@@ -33,7 +34,7 @@ A laser-based intrusion detection system developed using ESP32 and Blynk IoT. Th
 
 ---
 
-## Software Required
+## Software Required🖥️
 
 - Arduino IDE
 - ESP32 Board Package
@@ -42,7 +43,7 @@ A laser-based intrusion detection system developed using ESP32 and Blynk IoT. Th
 
 ---
 
-## Pin Connections
+## Pin Connections📌
 
 | Component | ESP32 Pin |
 |-----------|-----------|
@@ -52,7 +53,7 @@ A laser-based intrusion detection system developed using ESP32 and Blynk IoT. Th
 
 ---
 
-## Blynk Datastreams
+## Blynk Datastreams💾
 
 | Virtual Pin | Type | Purpose |
 |-------------|------|---------|
@@ -64,7 +65,7 @@ A laser-based intrusion detection system developed using ESP32 and Blynk IoT. Th
 
 ---
 
-## Working Principle
+## Working Principle🌟
 
 1. Laser continuously falls on the LDR.
 2. ESP32 monitors the sensor.
@@ -79,7 +80,7 @@ A laser-based intrusion detection system developed using ESP32 and Blynk IoT. Th
 
 ---
 
-## Blynk Dashboard
+## Blynk Dashboard📟
 
 The dashboard contains:
 
@@ -91,7 +92,7 @@ The dashboard contains:
 
 ---
 
-## Future Improvements
+## Future Improvements📈
 
 - ESP32-CAM Integration
 - Telegram Bot Notification
@@ -102,7 +103,7 @@ The dashboard contains:
 
 ---
 
-## Author
+## Author🙌
 
 Nitin Solanki
 B.Tech ECE Student
