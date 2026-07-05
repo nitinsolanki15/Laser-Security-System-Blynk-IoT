@@ -104,6 +104,6 @@ The dashboard contains:
 
 ## Author
 
-Gopika Solanki
+Nitin Solanki
 
 B.Tech Student
