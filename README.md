@@ -105,6 +105,6 @@ The dashboard contains:
 
 ## Author🙌
 
-Nitin Solanki
-<br>
+~Nitin Solanki
+
 B.Tech ECE Student
