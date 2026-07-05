@@ -105,5 +105,4 @@ The dashboard contains:
 ## Author
 
 Nitin Solanki
-
-B.Tech Student
+B.Tech ECE Student
